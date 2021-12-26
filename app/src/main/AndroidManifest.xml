@@ -18,6 +18,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SuccessActivity"
+            android:exported="true"
+            android:label="@string/success_activity_title">
+        </activity>
+        <activity
+            android:name=".FailedActivity"
+            android:exported="true"
+            android:label="@string/failed_activity_title">
+        </activity>
     </application>
 
 </manifest>
