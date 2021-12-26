@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Mobile Programming</string>
+    <string name="title">Menhitung Nilai</string>
+    <string name="uts">UTS</string>
+    <string name="uas">UAS</string>
+    <string name="nilai_akhir">Nilai Akhir</string>
+    <string name="hitung">Hitung</string>
+    <string name="tutup">Tutup</string>
 </resources>
