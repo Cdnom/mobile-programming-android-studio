@@ -18,6 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ChosenActivity"
+            android:exported="true"
+            android:label="@string/activity_chosen_title">
+        </activity>
     </application>
 
 </manifest>
