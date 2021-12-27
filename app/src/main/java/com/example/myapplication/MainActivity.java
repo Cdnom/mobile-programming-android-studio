@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements OnClickListener {
+
+    private final String[] items = {"Short", "Long"};
+    private Spinner spinner;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
