@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Mobile Programming</string>
+    <string name="camera_b_button">Camera B</string>
+    <string name="camera_s_button">Camera S</string>
+    <string name="video_button">Video</string>
+    <string name="gallery_button">Gallery</string>
+    <string name="close_button">X</string>
 </resources>
