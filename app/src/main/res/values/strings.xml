@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="activity_setting_title">Setting Activity</string>
+    <string name="medium_text_label">Medium Text</string>
+    <string name="value_text_label">Nilai TextView</string>
+    <string name="value_button_label">Nilai Button</string>
+    <string name="menu_item_setting">Menu Pengaturan</string>
+    <string name="menu_item_exit">Keluar</string>
 </resources>
