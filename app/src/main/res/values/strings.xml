@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Mobile Programming</string>
+    <string name="count_label">0</string>
+    <string name="count_button_label">Start</string>
 </resources>
